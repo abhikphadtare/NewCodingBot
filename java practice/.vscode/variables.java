@@ -1,6 +1,4 @@
-/**
- * variables
- */
+
 public class variables {
     public static void main(String[] args) {
         // variables
@@ -9,12 +7,12 @@ public class variables {
         double d = 34.567894;
         boolean bool = true;
         char ch = 'r';
-        String str = "Aaryan is a Trainer";
+        String str = "Abhishek is a student";
 
         a = 6;
         System.out.println("The value of a is: " + a);
         
-        // constant --> value should not change
+      
         final int b = 10;
         System.out.println(b);
     }

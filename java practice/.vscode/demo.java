@@ -1,5 +1,5 @@
 public class demo {
     public static void main(String[] args) {
-        System.out.println("This is my first java program");   
+        System.out.println("My First Java Program");   
     }
 }

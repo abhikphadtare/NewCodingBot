@@ -5,7 +5,7 @@ public class conditional {
         int a = 6;
         int b = 6;
 
-        // 1. find the bigger
+      
         if(a > b) {
             System.out.println("a is greater than b");
         } else if(a < b) {
